@@ -73,6 +73,7 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 
 | Project | Description | Stack |
 |---|---|---|
+| **[DMTT Academy](https://dmtt-zeta.vercel.app)** | Full-stack coaching platform built for a client — paid self-paced courses with a block editor, Stripe enrollment, protected Mux video, a student portal, and an admin dashboard. | Next.js · TypeScript · Prisma · Stripe · Mux |
 | **[Line by Line](https://github.com/danlitvak/linebyline)** | Local-first desktop journaling app built around delayed reflection — entries are encrypted on submission and sealed until an unlock date. | C# · .NET 7 · Avalonia · SQLite · AES-256-GCM |
 | **[ClipTrim](https://github.com/danlitvak/tool_cliptrim)** | Keyboard-first desktop app for trimming many MP4 clips into frame-accurate segments with a non-destructive file workflow. | Tauri · Rust · React · SQLite · FFmpeg |
 | **[Personal Portfolio](https://www.danlitvak.com)** | Full-stack portfolio with a Sanity CMS, Postgres-backed feedback tickets, a protected admin dashboard, and a GitHub Actions agent workflow. | Next.js · React · TypeScript · PostgreSQL |
