@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Engineering student at UBC · Vancouver, BC<br/>
-  I build tools, simulations, and small systems that turn technical ideas into software people can inspect, test, and use.
+  I build full-stack web apps, native desktop tools, and systems software.
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ### About
 
-I'm a Computer Engineering student at UBC who likes building the layer between a technical model and the person trying to use it. My work ranges from full-stack web apps and native desktop tools to low-level systems coursework in C, Java, and SystemVerilog. The common pattern is practical: understand the model, expose the state that matters, test the awkward cases, and make the result readable enough for someone else to trust.
+I'm a Computer Engineering student at UBC. I build full-stack web apps and native desktop tools, and my coursework keeps me working close to the hardware in C, Java, and SystemVerilog. I like projects where I have to understand a system end to end and make it reliable enough for someone else to actually use.
 
 - 🔭 Currently building native desktop tools and full-stack web apps
-- 🌱 Studying computer systems, digital hardware, and applied cryptography
-- 💼 Open to **Summer/Co-op 2026** software roles
+- 🌱 Studying computer systems and digital hardware
+- 💼 Open to **Fall 2026** co-op software roles
 - 📫 Reach me at **daniel.litvak.64@gmail.com**
 
 ---
@@ -49,6 +49,21 @@ I'm a Computer Engineering student at UBC who likes building the layer between a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### Relevant Coursework
+
+| Course | Title |
+|---|---|
+| CPEN 211 | Digital Systems |
+| CPEN 212 | Operating Systems |
+| CPEN 221 | Principles of Software Construction |
+| CPSC 221 | Data Structures and Algorithms |
+| STAT 302 | Introduction to Probability |
+| MATH 256 | Differential Equations |
+| MATH 253 | Multivariable Calculus |
+| ELEC 201 | Circuit Analysis |
 
 ---
 
