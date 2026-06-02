@@ -54,18 +54,18 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 
 ### Relevant Coursework
 
-| Course | Title |
-|---|---|
-| CPEN 211 | Digital Systems |
-| CPEN 212 | Operating Systems |
-| CPEN 221 | Principles of Software Construction |
-| CPEN 281 | Technical Communication |
-| CPSC 221 | Data Structures and Algorithms |
-| STAT 302 | Introduction to Probability |
-| MATH 256 | Differential Equations |
-| MATH 253 | Multivariable Calculus |
-| ELEC 201 | Circuit Analysis |
-| NURS 180 | Health and Wellbeing |
+| Course | Title | Description |
+|---|---|---|
+| CPEN 211 | Digital Systems | Boolean algebra, combinational and sequential circuits, and the organization and operation of microcomputers — memory addressing, instruction sets, assembly, and I/O. |
+| CPEN 212 | Operating Systems | Abstractions at the hardware–software interface — procedure invocation, virtual memory, interrupts, processes, threads, and file systems. |
+| CPEN 221 | Principles of Software Construction | Design and reasoning about software — abstraction and specification, testing, verification, abstract data types, object-oriented design, and concurrency. |
+| CPEN 281 | Technical Communication | Written and oral communication in engineering — technical description, report preparation, and business correspondence. |
+| CPSC 221 | Data Structures and Algorithms | Design and analysis of basic algorithms and data structures — algorithm analysis, searching and sorting, graphs, and concurrency. |
+| STAT 302 | Introduction to Probability | Probability, random variables, expectation and conditional expectation, and limit theorems. |
+| MATH 256 | Differential Equations | Linear ordinary differential equations, Laplace transforms, Fourier series, and separation of variables for linear PDEs. |
+| MATH 253 | Multivariable Calculus | Partial and directional derivatives, maxima and minima, Lagrange multipliers, and multiple integrals. |
+| ELEC 201 | Circuit Analysis | Analysis of lumped linear time-invariant circuits — network theorems, op-amps, first-order circuits, and DC analysis of diodes, BJTs, and FETs. |
+| NURS 180 | Health and Wellbeing | Foundations of stress, resilience, and social support, with methods to foster physical, mental, and emotional health. |
 
 ---
 
