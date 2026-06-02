@@ -59,11 +59,13 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 | CPEN 211 | Digital Systems |
 | CPEN 212 | Operating Systems |
 | CPEN 221 | Principles of Software Construction |
+| CPEN 281 | Technical Communication |
 | CPSC 221 | Data Structures and Algorithms |
 | STAT 302 | Introduction to Probability |
 | MATH 256 | Differential Equations |
 | MATH 253 | Multivariable Calculus |
 | ELEC 201 | Circuit Analysis |
+| NURS 180 | Health and Wellbeing |
 
 ---
 
@@ -74,6 +76,9 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 | **[Line by Line](https://github.com/danlitvak/linebyline)** | Local-first desktop journaling app built around delayed reflection — entries are encrypted on submission and sealed until an unlock date. | C# · .NET 7 · Avalonia · SQLite · AES-256-GCM |
 | **[ClipTrim](https://github.com/danlitvak/tool_cliptrim)** | Keyboard-first desktop app for trimming many MP4 clips into frame-accurate segments with a non-destructive file workflow. | Tauri · Rust · React · SQLite · FFmpeg |
 | **[Personal Portfolio](https://www.danlitvak.com)** | Full-stack portfolio with a Sanity CMS, Postgres-backed feedback tickets, a protected admin dashboard, and a GitHub Actions agent workflow. | Next.js · React · TypeScript · PostgreSQL |
+| **[StudentLife Course Explorer](https://github.com/CPEN-221-2025/project-acacia)** | Course-review web app with search, filtering, and review workflows — built as a team using GitHub issues/PRs, milestones, and JUnit tests. | Java · Spark Java · Maven · Gson |
+| **[Simple Nodal Analysis Tool](https://www.danlitvak.com)** | Modified nodal analysis circuit solver that builds the system matrix, solves for node voltages, and reports topology diagnostics. | Python · Flask · NumPy |
+| **CPEN 211 RISC-V CPU** | Single-cycle RISC-V CPU in SystemVerilog with a vector-driven FSM testbench, targeting an FPGA board. | SystemVerilog · RISC-V · FPGA |
 
 > More projects, write-ups, and interactive simulations live at **[danlitvak.com](https://www.danlitvak.com)**.
 
