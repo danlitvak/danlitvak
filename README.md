@@ -90,6 +90,6 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-danlitvaks-projects.vercel.app/api?username=danlitvak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-danlitvaks-projects.vercel.app/api?username=danlitvak&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
   <img height="165" src="https://github-readme-stats-danlitvaks-projects.vercel.app/api/top-langs/?username=danlitvak&layout=compact&langs_count=8&hide=html,css&hide_border=true&theme=tokyonight" alt="Top languages"/>
 </p>
