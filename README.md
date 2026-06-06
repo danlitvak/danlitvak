@@ -24,7 +24,9 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
+
+<div align="center">
 
 **Languages**
 
@@ -49,6 +51,8 @@ I'm a Computer Engineering student at UBC. I build full-stack web apps and nativ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
