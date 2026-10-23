@@ -1,6 +1,6 @@
 # Daniel Litvak
 
-I'm a third-year Computer Engineering student at UBC, in Vancouver. I like building stuff, have a look you'll see.
+I'm a third-year Computer Engineering student at UBC, in Vancouver. I like building stuff, have a look, you'll see.
 
 I'm looking for a co-op starting January or May 2027, for 4 to 12 months.
 
