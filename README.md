@@ -1,100 +1,84 @@
-<h1 align="center">Hi, I'm Daniel Litvak 👋</h1>
+# Daniel Litvak
 
-<p align="center">
-  Computer Engineering student at UBC · Vancouver, BC<br/>
-  I build full-stack web apps, native desktop tools, and systems software.
-</p>
+I'm a third-year Computer Engineering student at UBC, in Vancouver. I like building the layer between a technical model and the person using it, and most of what I make is small enough to measure.
 
-<p align="center">
+I'm looking for a co-op starting January or May 2027, for 4 to 12 months.
+
+<p>
   <a href="https://www.danlitvak.com"><img src="https://img.shields.io/badge/Portfolio-danlitvak.com-5555aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/litvak-daniel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:daniel.litvak.64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+## Work
 
-### About
+| Where | What I do |
+|---|---|
+| **Kitchen'sGuardian** · CTO, since August 2026 | I lead the technical side of the company's AI kitchen manager app. |
+| **[SayAble](https://sayable.ca)** · technical co-founder | Classroom speaking assessment: a student answers a teacher's question out loud, and the teacher gets the transcript and a suggested mark against their own key points. |
+| **[TT Coach](https://dmtt-zeta.vercel.app)** · client project | A coaching platform built for a table tennis coach, with paid self-paced courses (Stripe), protected video (Mux), a student portal and an admin dashboard. |
+| **[Calculus Lab](https://danlitvak.github.io/tutoring/)** · tutoring, until September 2026 | Interactive calculus demos I built for the students I tutored. |
 
-I'm a Computer Engineering student at UBC. I build full-stack web apps and native desktop tools, and my coursework keeps me working close to the hardware in C, Java, and SystemVerilog. I like projects where I have to understand a system end to end and make it reliable enough for someone else to actually use.
+## Recent projects
 
-- 🔭 Currently building native desktop tools and full-stack web apps
-- 🌱 Studying computer systems and digital hardware
-- 💼 Open to **Fall 2026** co-op software roles
-- 📫 Reach me at **daniel.litvak.64@gmail.com**
+| Project | What it is | Stack |
+|---|---|---|
+| **[pixelbar](https://github.com/danlitvak/pixelbar)** | A pixel-art status column for my Windows desktop: eleven widgets, including what each Claude Code and Codex session is doing, drawn by one native window for a fraction of a percent of the CPU. | C++20 · Win32 · DXGI |
+| **[fpga-hft](https://github.com/danlitvak/fpga-hft)** | A market-data path for a DE10-Lite FPGA: parser, order book, signal engine and a stateful risk gate with a fixed 5-cycle decision latency, checked by 47 cocotb tests (simulation only so far). | SystemVerilog · cocotb |
+| **[vulkan-compute-lab](https://github.com/danlitvak/vulkan-compute-lab)** | Compute shaders with live reload and no graphics pipeline: an all-pairs N-body galaxy at 79 fps with 65k bodies, a progressive path tracer and a 32k-agent flock. | C++20 · Vulkan · GLSL |
+| **[riscv-pipeline-sim](https://github.com/danlitvak/riscv-pipeline-sim)** | A cycle-accurate 5-stage RV32I pipeline with forwarding and a load-use interlock, stepped in the browser. 63 tests, six of them hand-computed cycle-by-cycle traces. | TypeScript · React |
+| **[knockabase](https://www.danlitvak.com/projects/knockabase)** | A door-to-door canvassing app for an HVAC electrification crew: a rep speaks a knock and a language model turns it into a validated record on the territory map. Private repo. | Next.js · Supabase · PostGIS · Claude API |
+| **[sillage](https://github.com/danlitvak/sillage)** | Photograph a fragrance bottle to identify and collect it. The model proposes recommendations and plain Dart scores them; brand and name came out right on all 15 test photos. | Flutter · Supabase · Claude API |
+| **[hydro-pipeline](https://github.com/danlitvak/hydro-pipeline)** | Level and discharge for 8 BC river gauges into SQLite, with anomalies judged against the previous day's baseline so a spike can't inflate its own threshold. 43 tests. | Python · pandas · SQLite |
+| **[ubc-planner](https://github.com/danlitvak/ubc-planner)** | A UBC course planner that parses prerequisite prose into AND/OR trees. 391 of 393 requirement strings parse, and the 2 failures are reported by name. | Next.js · TypeScript |
+| **[design-system](https://danlitvak.github.io/design-system/)** | 56 shadcn/ui components retinted to my monochrome, square-cornered style purely through tokens. | React 19 · Tailwind v4 |
 
----
+More projects, with write-ups, are on [danlitvak.com](https://www.danlitvak.com).
 
-<h3 align="center">Tech Stack</h3>
-
-<div align="center">
+## Stack
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CC0000?style=flat&logo=verilog&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks and tools**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=flat&logo=vulkan&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-</div>
+## Coursework
 
----
-
-### Relevant Coursework
-
-| Course | Title | Description |
+| Course | Title | Notes |
 |---|---|---|
-| CPEN 211 | Digital Systems | Boolean algebra, combinational and sequential circuits, and the organization and operation of microcomputers — memory addressing, instruction sets, assembly, and I/O. |
-| CPEN 212 | Operating Systems | Abstractions at the hardware–software interface — procedure invocation, virtual memory, interrupts, processes, threads, and file systems. |
-| CPEN 221 | Principles of Software Construction | Design and reasoning about software — abstraction and specification, testing, verification, abstract data types, object-oriented design, and concurrency. |
-| CPEN 281 | Technical Communication | Written and oral communication in engineering — technical description, report preparation, and business correspondence. |
-| CPSC 221 | Data Structures and Algorithms | Design and analysis of basic algorithms and data structures — algorithm analysis, searching and sorting, graphs, and concurrency. |
-| STAT 302 | Introduction to Probability | Probability, random variables, expectation and conditional expectation, and limit theorems. |
-| MATH 256 | Differential Equations | Linear ordinary differential equations, Laplace transforms, Fourier series, and separation of variables for linear PDEs. |
-| MATH 253 | Multivariable Calculus | Partial and directional derivatives, maxima and minima, Lagrange multipliers, and multiple integrals. |
-| ELEC 201 | Circuit Analysis | Analysis of lumped linear time-invariant circuits — network theorems, op-amps, first-order circuits, and DC analysis of diodes, BJTs, and FETs. |
-| NURS 180 | Health and Wellbeing | Foundations of stress, resilience, and social support, with methods to foster physical, mental, and emotional health. |
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[DMTT Academy](https://dmtt-zeta.vercel.app)** | Full-stack coaching platform built for a client — paid self-paced courses with a block editor, Stripe enrollment, protected Mux video, a student portal, and an admin dashboard. | Next.js · TypeScript · Prisma · Stripe · Mux |
-| **[Line by Line](https://github.com/danlitvak/linebyline)** | Local-first desktop journaling app built around delayed reflection — entries are encrypted on submission and sealed until an unlock date. | C# · .NET 7 · Avalonia · SQLite · AES-256-GCM |
-| **[ClipTrim](https://github.com/danlitvak/tool_cliptrim)** | Keyboard-first desktop app for trimming many MP4 clips into frame-accurate segments with a non-destructive file workflow. | Tauri · Rust · React · SQLite · FFmpeg |
-| **[pixelbar](https://github.com/danlitvak/pixelbar)** | Rainmeter-style pixel-art status column for the Windows desktop — eleven widgets, including live Claude Code / Codex session status and today's token usage read from their logs, drawn by one native window with spring-and-dither motion paced to the display's refresh. | C++20 · Win32 · C++/WinRT · DXGI |
-| **[WFC Visualizer](https://danlitvak.github.io/wfc/)** | Live, interactive Wave Function Collapse visualizer — the real Python/NumPy engine runs in the browser via Pyodide (WebAssembly), animating an overlapping WFC solve from a paintable sample with no server. | Python · NumPy · Pyodide · WebAssembly |
-| **[Design System](https://danlitvak.github.io/design-system/)** | A customized shadcn/ui design system and component library — 56 restyled components, composed page blocks, motion primitives, and light/dark theming driven from a single CSS file. | React 19 · TypeScript · Vite · Tailwind v4 · shadcn/ui |
-| **[Personal Portfolio](https://www.danlitvak.com)** | Full-stack portfolio with a Sanity CMS, Postgres-backed feedback tickets, a protected admin dashboard, and a GitHub Actions agent workflow. | Next.js · React · TypeScript · PostgreSQL |
-| **[StudentLife Course Explorer](https://github.com/CPEN-221-2025/project-acacia)** | Course-review web app with search, filtering, and review workflows — built as a team using GitHub issues/PRs, milestones, and JUnit tests. | Java · Spark Java · Maven · Gson |
-| **[Simple Nodal Analysis Tool](https://www.danlitvak.com)** | Modified nodal analysis circuit solver that builds the system matrix, solves for node voltages, and reports topology diagnostics. | Python · Flask · NumPy |
-| **CPEN 211 RISC-V CPU** | Single-cycle RISC-V CPU in SystemVerilog with a vector-driven FSM testbench, targeting an FPGA board. | SystemVerilog · RISC-V · FPGA |
-
-> More projects, write-ups, and interactive simulations live at **[danlitvak.com](https://www.danlitvak.com)**.
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-danlitvaks-projects.vercel.app/api?username=danlitvak&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Daniel's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-danlitvaks-projects.vercel.app/api/top-langs/?username=danlitvak&layout=compact&langs_count=8&hide=html,css&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
+| CPEN 331 | Operating Systems | This term, on OS/161 |
+| CPEN 391 | Computer Engineering Design Studio II | This term: a team autonomous-car project |
+| CPSC 320 | Intermediate Algorithm Design and Analysis | This term |
+| APSC 262 | Technology and Society II | This term |
+| CPEN 211 | Computing Systems I | Digital logic up to a single-cycle RISC-V CPU in SystemVerilog, on an FPGA board |
+| CPEN 212 | Computing Systems II | The hardware-software interface: virtual memory, a shell, cache optimization |
+| CPEN 221 | Software Construction I | Specification, testing and concurrency in Java; a team course-review app with JUnit tests |
+| CPSC 221 | Basic Algorithms and Data Structures | C++: hash tables and a tree-based image compressor |
+| ELEC 201 | Circuit Analysis I | |
+| STAT 302 | Introduction to Probability | |
+| MATH 253 | Multivariable Calculus | |
+| MATH 256 | Differential Equations | |
+| CPEN 281 | Technical Communication | |
